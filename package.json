@@ -1,0 +1,15 @@
+{
+  "name": "vending-machine-example",
+  "version": "1.0.0",
+  "description": "A example project using Test Driven Development (TDD). Just to get some feels with html and js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
